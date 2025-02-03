@@ -8,13 +8,13 @@ I'm Bobin, a passionate Data Scientist specializing in Machine Learning, Generat
 
 ## 📌 Featured Projects
 
-[PedroReports - A LLM-Powered Data Analysis Tool](https://github.com/bobinsingh/PedroReports-LLM-Powered-Report-Tool) - An LLM-based automated data analysis tool for professional PDF report generation.
+* [PedroReports - A LLM-Powered Data Analysis Tool](https://github.com/bobinsingh/PedroReports-LLM-Powered-Report-Tool) - An LLM-based automated data analysis tool for professional PDF report generation.
 
-[MLOps Ad Click Prediction Model](https://github.com/bobinsingh/Ad-Click-Prediction-MLOps) - An end-to-end MLOps pipeline that predicts whether a user will click on displayed advertisements, deployed with CI/CD on AWS EC2.
+* [MLOps Ad Click Prediction Model](https://github.com/bobinsingh/Ad-Click-Prediction-MLOps) - An end-to-end MLOps pipeline that predicts whether a user will click on displayed advertisements, deployed with CI/CD on AWS EC2.
 
-[ML-QSAR Model](https://github.com/bobinsingh/MAO-B) - A Machine Learning-based Quantitative Structure-Activity Relationship Model that predicts the inhibitory concentration of chemical compounds against Monoamine-oxidase-B protein, supporting Parkinson's Disease research in the Computational Drug Discovery domain.
+* [ML-QSAR Model](https://github.com/bobinsingh/MAO-B) - A Machine Learning-based Quantitative Structure-Activity Relationship Model that predicts the inhibitory concentration of chemical compounds against Monoamine-oxidase-B protein, supporting Parkinson's Disease research in the Computational Drug Discovery domain.
 
-[Brain Tumor Segmentation Model (98% Accuracy)](https://github.com/bobinsingh/project-link) - A CNN-based model trained on BraTS 2020 Dataset, employing an Attention U-Net Architecture.
+* [Brain Tumor Segmentation Model (98% Accuracy)](https://github.com/bobinsingh/project-link) - A CNN-based model trained on BraTS 2020 Dataset, employing an Attention U-Net Architecture.
 
 ## 📊 GitHub Stats
 
@@ -25,8 +25,8 @@ I'm Bobin, a passionate Data Scientist specializing in Machine Learning, Generat
 
 ## 🎵 Spotify Now Playing
 
-<div>
-  <img src="https://novatorem-nu-seven.vercel.app/api/spotify" alt="Spotify Now Playing" width="450" />
+<div align="center">
+  <img src="https://novatorem-bobinsinghs-projects.vercel.app/api/spotify" alt="Spotify Now Playing" width="450" />
 </div>
 
 ## 💻 Skills
