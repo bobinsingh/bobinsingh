@@ -25,7 +25,7 @@ I'm Bobin, a passionate Data Scientist specializing in Machine Learning, Generat
 
 ## 🎵 Spotify Recently Played
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31y7k2qioh3tkuj7h4ruwn2hddeq&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31y7k2qioh3tkuj7h4ruwn2hddeq&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 ## 💻 Skills
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
