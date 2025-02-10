@@ -19,7 +19,8 @@ I'm Bobin, a passionate Data Scientist specializing in Machine Learning, Generat
 ## 📊 GitHub Stats
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bobinsingh&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bobinsingh&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide=issues" />
+  
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bobinsingh&theme=radical&layout=compact&langs_count=8" />
 </div>
 
