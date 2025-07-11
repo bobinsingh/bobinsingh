@@ -12,8 +12,6 @@ I'm Bobin, a passionate Data Scientist specializing in Machine Learning, Generat
 
 * [MLOps Ad Click Prediction Model](https://github.com/bobinsingh/Ad-Click-Prediction-MLOps) - An end-to-end MLOps pipeline that predicts whether a user will click on displayed advertisements, deployed with CI/CD on AWS EC2.
 
-* [ML-QSAR Model](https://github.com/bobinsingh/MAO-B) - A Machine Learning-based Quantitative Structure-Activity Relationship Model that predicts the inhibitory concentration of chemical compounds against Monoamine-oxidase-B protein, supporting Parkinson's Disease research in the Computational Drug Discovery domain.
-
 ## 📊 GitHub Stats
 
 <div>
