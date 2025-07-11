@@ -14,8 +14,6 @@ I'm Bobin, a passionate Data Scientist specializing in Machine Learning, Generat
 
 * [ML-QSAR Model](https://github.com/bobinsingh/MAO-B) - A Machine Learning-based Quantitative Structure-Activity Relationship Model that predicts the inhibitory concentration of chemical compounds against Monoamine-oxidase-B protein, supporting Parkinson's Disease research in the Computational Drug Discovery domain.
 
-* [Brain Tumor Segmentation Model (98% Accuracy)](https://github.com/bobinsingh/project-link) - A CNN-based model trained on BraTS 2020 Dataset, employing an Attention U-Net Architecture.
-
 ## 📊 GitHub Stats
 
 <div>
